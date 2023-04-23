@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@sveltejs/adapter-netlify": "^1.0.0-next.88",
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "pokemontcgsdk": "^2.0.0",
     "svelte": "^3.52.0",
